@@ -27,9 +27,13 @@ function Listing() {
         setPage(data);
       });
   }, [pageNumber]);
+
+  const handlePageChange = (newPagenumber : number) => {
+     setPageNumber(newPagenumber);
+  }
   return (
     <>
-      <Pagination />
+      <Pagination page = {page} oneChange ={handlePageChange}/>
       <div className="cotainer">
         <div className="row">
           {page.content.map((movie) => (
