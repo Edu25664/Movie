@@ -1,6 +1,7 @@
 # Catálogo de filmes
-![image](https://raw.githubusercontent.com/Edu25664/imagens/main/DsMovie.png?token=GHSAT0AAAAAABXRKAKOWGTHLKTSUVT2LGACYXXVQPA)
+![image](https://user-images.githubusercontent.com/102878203/184506065-eadffe8d-9808-4ec1-9ba8-a204004a034c.png)
 
+##
 <p align="center">
 Este aplicativo é um catálogo de filmes e também é possível que as pessoas façam avaliações dos filmes.
 </p>
@@ -13,7 +14,7 @@ Este aplicativo é um catálogo de filmes e também é possível que as pessoas 
 
 ### 🛠 Technologies
 
-The following tools were used in building the project:
+Tecnologias usadas nesse projeto:
 
 - [Node.js](https://nodejs.org/en/)
 - [React](https://pt-br.reactjs.org/)
